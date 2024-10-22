@@ -11,3 +11,6 @@ This project showcases a **fully automated data engineering pipeline** using var
 - **🔐 Azure Key Vault**: Secures storage and management of secrets, such as API keys and connection strings.
 
 This **automated pipeline** ensures efficient data processing, transformation, and presentation in a **secure** and **scalable environment**. The project highlights a modern approach to data engineering, leveraging **cloud-native services** to deliver data-driven insights.
+
+## 📐 Project Structure
+[ADF+Course+Deck+V2-project structure.pdf](https://github.com/user-attachments/files/17480116/ADF%2BCourse%2BDeck%2BV2-project.structure.pdf)
