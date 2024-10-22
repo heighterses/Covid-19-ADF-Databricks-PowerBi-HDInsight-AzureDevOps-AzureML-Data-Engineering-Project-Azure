@@ -1,0 +1,2 @@
+# Covid-19-ADF-Databricks-PowerBi-HDInsight-AzureDevOps-AzureML-Data-Engineering-Project-Azure
+A complete Data Engineering Project using Azure Services: Data Factory for data ingestion, Databricks for transformation, and Power BI for visualization. Azure DevOps manages CI/CD, Azure ML integrates predictive analytics, HDInsight processes large datasets, and Azure Key Vault ensures secure secrets management in this scalable solution.
