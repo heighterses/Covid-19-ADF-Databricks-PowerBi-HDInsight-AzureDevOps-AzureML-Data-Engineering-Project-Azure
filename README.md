@@ -13,4 +13,4 @@ This project showcases a **fully automated data engineering pipeline** using var
 This **automated pipeline** ensures efficient data processing, transformation, and presentation in a **secure** and **scalable environment**. The project highlights a modern approach to data engineering, leveraging **cloud-native services** to deliver data-driven insights.
 
 ## 📐 Project Structure
-[ADF+Course+Deck+V2-project structure.pdf](https://github.com/user-attachments/files/17480116/ADF%2BCourse%2BDeck%2BV2-project.structure.pdf)
+![ADF+Course+Deck+V2-project structure pdf](https://github.com/user-attachments/assets/ea11f11b-8eab-4b9b-abfe-2f49a329fe5b)
