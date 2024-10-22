@@ -14,3 +14,7 @@ This **automated pipeline** ensures efficient data processing, transformation, a
 
 ## 📐 Project Structure
 ![ADF+Course+Deck+V2-project structure pdf](https://github.com/user-attachments/assets/ea11f11b-8eab-4b9b-abfe-2f49a329fe5b)
+
+## 🏗️ Project Structure
+
+![ARCHITECHTURE](https://github.com/user-attachments/assets/f6fec42a-ff53-4daf-971e-4e573b1e85f5)
